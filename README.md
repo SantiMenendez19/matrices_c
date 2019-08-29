@@ -9,4 +9,5 @@ main.c -> menu principal
 funcmatrices.c -> funciones
 funcmatrices.h -> header
 
-Se inicia desde main.c , en bin hay un ejecutable del mismo que se puede utilizar en windows
+Se inicia desde main.c si tenes Codeblocks o algun IDE que soporte c
+En cambio , el ejecutable es ProductoMatrices.exe que se puede ejecutar desde windows
