@@ -1,8 +1,12 @@
 # matrices_c
-Programa de calculo de matrices realizado en C.
 
+Hecho por Santiago Menendez para UNLaM
+
+# Descripcion
+Programa de calculo de matrices realizado en C.
 El programa fue realizado en lenguaje C utilizando Codeblocks como IDE.
 
+# Utilizacion
 Consta de tres archivos.
 
 main.c -> menu principal
